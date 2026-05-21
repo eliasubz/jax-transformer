@@ -1,4 +1,4 @@
-﻿# jax-transformer
+﻿# JAX-Transformer
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eliasubz/jax-transformer/blob/main/math-transformer.ipynb)
 
